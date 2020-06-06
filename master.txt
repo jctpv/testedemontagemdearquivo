@@ -5,4 +5,5 @@ quarta linha
 quinta linha pelo github
 sexta linha no pc
 7 linha corrigido o conflito
-8 linh editarwwwwwwwwwwwwwwwwwx para inserir um hotfix na master
+8 linh editada para inserir um hotfix na master hotfix
+9 feito o ajuste do conflito
